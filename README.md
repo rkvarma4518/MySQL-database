@@ -13,7 +13,7 @@ Download mysql community from its core website.
 Install mysql and give password as you want.
 
 Then create database on your system using command
--create database database_name
+- create database database_name
 
 And then replace databse name which given in program and put database name which you have created.
 
